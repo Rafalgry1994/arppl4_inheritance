@@ -5,8 +5,6 @@ i
 9src/main/java/pl/sda/arp4/inheritance/rodzina/Córka.java,1\6\166f9aac13cf29f0c2730e0782782cf2835073b7
 _
 /src/main/java/pl/sda/arp4/inheritance/Main.java,d\7\d7346984ce178a333eccd9d0a6ef92b5d486f77c
-i
-9src/main/java/pl/sda/arp4/inheritance/rodzina/Rodzic.java,5\5\5571d767c33de344d03fc0c04fcbd1492217f2b4
 j
 :src/main/java/pl/sda/arp4/inheritance/rodzina/Dziecko.java,e\2\e2477d19d04963547e8e6dd6da8fa66daf8fbef6
 7
