@@ -1,0 +1,4 @@
+
+m	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã Èé8íÍœ¹Œ0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ó§ö„øÿÿÿÿ8áÎ¥¹Œ0
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¹”·üÿÿÿÿ

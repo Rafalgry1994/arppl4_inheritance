@@ -1,0 +1,9 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½¶‘Äşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜŒš÷
+„
+java:S4165	"bRemove this useless assignment; "bokA" already holds the assigned value along all execution paths.(üùÖúúÿÿÿÿ8²³²¼Œ0
+N
+java:S1172",Remove this unused method parameter "edgeA".(·–åûıÿÿÿÿ8¸³²¼Œ0
+Q
+java:S1656	"/Remove or correct this useless self-assignment.(üùÖúúÿÿÿÿ8»³²¼Œ0
